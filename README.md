@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/pavan022004/leetcode/tree/master/0792-binary-search) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/pavan022004/leetcode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
