@@ -48,5 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pavan022004/leetcode/tree/master/0014-longest-common-prefix) |
 | [0742-to-lower-case](https://github.com/pavan022004/leetcode/tree/master/0742-to-lower-case) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pavan022004/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
